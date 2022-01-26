@@ -886,6 +886,7 @@ menu5_24=SmartDNS
 menu5_24_1=SmartDNS
 menu5_25=内网穿透
 menu5_25_1=frp
+menu5_25_2=npc
 menu5_26=Koolproxy
 menu5_26_1=Koolproxy
 menu5_27=文件管理
